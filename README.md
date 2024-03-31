@@ -1,0 +1,4 @@
+A to-do list is a simple web page element that allows users to input and manage a list of tasks or items. It is a practical and straightforward way to organize tasks, as well as a good exercise for practicing HTML and CSS skills. A to-do list created using only HTML and CSS, without the use of JavaScript or other programming languages, is often referred to as a "pure CSS to-do list." This approach results in a lightweight and fast-loading web page element that can be easily styled to match any website or application design.
+
+
+With the help of To Do list, we can add a list of tasks that we need to get done in the future. Traditionally, they were written on paper or slag. Today, however, people are using technology to quickly note down their important tasks to set reminders for the upcoming time.
